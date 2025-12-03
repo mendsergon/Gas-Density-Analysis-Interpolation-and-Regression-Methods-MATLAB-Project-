@@ -1,0 +1,2 @@
+# Gas-Density-Analysis-Interpolation-and-Regression-Methods-MATLAB-Project-
+MATLAB project analyzing nitrogen density vs. temperature using three interpolation methods (linear Lagrange, cubic polynomial, cubic spline) and three regression models (linear, quadratic, cubic). Estimates density at 330K, compares methods, and generates comparative visualizations with automated reporting and figure export.
